@@ -1,5 +1,4 @@
 
-import pytest
 from dz_at03 import get_random_cat_image
 
 
